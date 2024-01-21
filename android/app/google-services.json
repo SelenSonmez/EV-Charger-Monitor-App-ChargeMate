@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749063011762",
+    "project_id": "charge-mate-iue",
+    "storage_bucket": "charge-mate-iue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749063011762:android:413850f8a7f97e673db8ab",
+        "android_client_info": {
+          "package_name": "com.example.charge_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJ3bwnWwIbV8scXdj9x9DuNijyWwDPao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
